@@ -147,6 +147,17 @@ https://github.com/dzeko003/projet-3-3-landing-page-avec-css-avance
 
 ---
 
+## Aperçu
+
+Une version en ligne du projet est disponible via GitHub Pages :
+
+**Démo :**  
+https://dzeko003.github.io/projet-3-3-landing-page-avec-css-avance/
+
+Vous pouvez consulter directement la landing page dans votre navigateur sans avoir à cloner le dépôt.
+
+---
+
 ## Auteur
 
 Projet réalisé dans le cadre de la formation **Akieni Academy**.
