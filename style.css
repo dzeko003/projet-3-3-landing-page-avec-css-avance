@@ -369,10 +369,6 @@ section {
   color: var(--color-text-muted);
 }
 
-.testimonials__grid .testimonial:nth-child(2) {
-  transform: translateY(-12px);
-}
-
 .pricing__grid {
   max-width: var(--max-width);
   margin: 0 auto;
